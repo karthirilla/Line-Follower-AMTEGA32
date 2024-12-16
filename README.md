@@ -4,6 +4,27 @@ The **Line Follower Robot with ATmega32** is an advanced, high-performance robot
 
 Built around the ATmega32 microcontroller, it integrates advanced features such as auto-calibration, optimized path planning, maze-solving capabilities, and Bluetooth Low Energy (BLE) control. The robot's motor system is designed to provide enhanced torque with 24,000 RPM motors, ensuring superior performance in competitive environments.
 
+# Line Follower ATMEGA32
+
+## Images
+
+| **Image 1**                                                               | **Image 2**                                                               |
+|----------------------------------------------------------------------------|----------------------------------------------------------------------------|
+| ![Image 1](https://github.com/karthirilla/Line_Follower_AMTEGA32/blob/main/LINE_FOLLOWER_ATMEGA32_1.jpg) | ![Image 2](https://github.com/karthirilla/Line_Follower_AMTEGA32/blob/main/LINE_FOLLOWER_ATMEGA32_2.jpg) |
+
+| **Image 3**                                                               | **Image 4**                                                               |
+|----------------------------------------------------------------------------|----------------------------------------------------------------------------|
+| ![Image 3](https://github.com/karthirilla/Line_Follower_AMTEGA32/blob/main/LINE_FOLLOWER_ATMEGA32_3.jpg) | ![Image 4](https://github.com/karthirilla/Line_Follower_AMTEGA32/blob/main/LINE_FOLLOWER_ATMEGA32_4.jpg) |
+
+| **Image 5**                                                               | **Image 6**                                                               |
+|----------------------------------------------------------------------------|----------------------------------------------------------------------------|
+| ![Image 5](https://github.com/karthirilla/Line_Follower_AMTEGA32/blob/main/LINE_FOLLOWER_ATMEGA32_5.jpg) | ![Image 6](https://github.com/karthirilla/Line_Follower_AMTEGA32/blob/main/LINE_FOLLOWER_ATMEGA32_6.jpg) |
+
+| **Image 7**                                                               | **Image 8**                                                               |
+|----------------------------------------------------------------------------|----------------------------------------------------------------------------|
+| ![Image 7](https://github.com/karthirilla/Line_Follower_AMTEGA32/blob/main/LINE_FOLLOWER_ATMEGA32_7.jpg) | ![Image 8](https://github.com/karthirilla/Line_Follower_AMTEGA32/blob/main/LINE_FOLLOWER_ATMEGA32_8.png) |
+
+
 ## Features
 
 ### 1. Hardware
